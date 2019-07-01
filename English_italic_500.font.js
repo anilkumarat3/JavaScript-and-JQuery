@@ -1,10 +1,4 @@
-/*!
- * The following copyright notice may not be removed under any circumstances.
- * 
- * Copyright:
- * Converted by ALLTYPE
- */
-Cufon
+
 		.registerFont({
 			"w" : 145,
 			"face" : {
